@@ -15,7 +15,8 @@
 
 ### Virtual Keyboard
 
-[Arduino](https://www.arduino.cc/)로 만들려고 생각해 보니, USB를 인식하고 [키보드 라이브러리](https://www.arduino.cc/reference/en/language/functions/usb/keyboard/)를 사용하려면 [레오나르도](https://www.arduino.cc/en/Main/Arduino_BoardLeonardo) 버전을 사용해야 합니다. 가격도 문제지만, 덩치가 너무 큽니다. [알리](https://www.aliexpress.com/)가 결국 이걸 해내내요!
+[Arduino](https://www.arduino.cc/)로 만들려고 생각해 보니, USB를 인식하고 [키보드 라이브러리](https://www.arduino.cc/reference/en/language/functions/usb/keyboard/)를 사용하려면 [레오나르도](https://www.arduino.cc/en/Main/Arduino_BoardLeonardo) 버전을 사용해야 합니다.<br/>
+가격도 문제지만, 덩치가 너무 큽니다. [알리](https://www.aliexpress.com/)가 결국 이걸 해내내요!
 
 Leonardo Interface 호환 MicroUSB Arduino ([링크](https://www.aliexpress.com/item/Pro-Micro-ATmega32U4-5V-16MHz-Replace-ATmega328-For-Arduino-Pro-Mini-With-2-Row-Pin-Header/32808519179.html?spm=a2g0s.9042311.0.0.46554c4dgy0c1F))<br/>
 ![arduino micro pro](images/arduino_micro_pro.png)
@@ -56,7 +57,7 @@ void loop() {
 
 나중에 BUTTON과 LED 핀 위치는 적당히 바꾸는 걸로 하고 일단은 7, 8번으로..
 
-![circuit](images/circuit.png)
+![circuit](images/circuit.png)<br/>
 ([fritzing](http://fritzing.org)을 이용해서 그렸었는데, 만들 때 저장했던 파일 날라가서 이 글 쓰느라 새로 그림..)
 
 [관련영상 보기 - 1](https://www.youtube.com/watch?v=JU4w-j4xfiQ&list=PL03rJBlpwTaC3Z4WcxxLu4CWCK_pf7VYb&index=1)<br/>
@@ -82,6 +83,9 @@ void loop() {
 
 [관련영상 보기 - 3](https://www.youtube.com/watch?v=d6zu59emo6A&index=3&list=PL03rJBlpwTaC3Z4WcxxLu4CWCK_pf7VYb)<br/>
 [관련영상 보기 - 4](https://www.youtube.com/watch?v=mdoqS-6Dr8s&list=PL03rJBlpwTaC3Z4WcxxLu4CWCK_pf7VYb&index=4)
+
+다 만들었다!! -끝-
+
 
 <br/>
 
